@@ -3,7 +3,7 @@ layout: post
 title: 老婆，我爱你!
 ---
 
-I may not be the first person to like you,
+I may not be the first person to like you,\n
 我可以不是第一个喜欢你的人，
 not your first hand in hand,
 不是你第一个牵手的人，
